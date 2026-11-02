@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "818067258779",
+    "project_id": "tapa-88e12",
+    "storage_bucket": "tapa-88e12.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:818067258779:android:e23842acda976298f4753e",
+        "android_client_info": {
+          "package_name": "com.tapa_mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "818067258779-5qe974r8onlco367s7dontddp3de3chk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tapa_mobile",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "818067258779-b5or24sdpcf3eo98b1jj6coi74ie5fn8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByF5-Df18LBiNKdeVspYDsarDfsSdzfjg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "818067258779-b5or24sdpcf3eo98b1jj6coi74ie5fn8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
